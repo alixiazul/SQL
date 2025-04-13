@@ -1,1 +1,1 @@
-SQL actions by using MySQL.
+SQL queries by using MySQL.
